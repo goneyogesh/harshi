@@ -1,0 +1,124 @@
+body{
+    background-color:#000000;
+    color: #ffffff;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.container{
+    width: 900px;
+}
+.first video{
+    width: 1050px;
+    height: 746px;
+    margin-left: 750px;
+    margin-top: 18px;
+    
+}
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin:auto;
+}
+.icon{
+    width: 200px;
+    float: left;
+    height:70px;
+    
+    padding-left: 103px;
+    font-size: 35px;
+
+}
+.logo{
+    color: blue;
+    font-size: 44px;
+    font-family: Arial;
+    padding-left: 20px;
+    float:left;
+    padding-top: -3px;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+ul li{
+    life-style: none;
+    margin-left: 133px;
+    margin-top: 27px;
+    font-size: 24px;
+}
+ul li a{
+    text-decoration: none;
+    color: #fff;
+    font-family: Arial;
+    font-weight: bold;
+    transition: 0.4s ease-in-out;
+}
+ul li a:hover{
+    color:#ff7200;
+}
+.sep{
+    float: left;
+    width: 100%;
+}
+.content{
+    width: 70%;
+    float: left;
+    height: auto;
+    margin-top: -700px;
+    color: #fff;
+    margin-bottom:20px;
+    margin-left: 86px;
+  
+   
+}
+.content p{
+    width: 100%;
+    float: left;
+    padding-left: 20px;
+    padding-bottom: 25px;
+    font-family: Arial;
+    letter-spacing: 1.2px;
+    line-height: 30px;
+    color: #fff;
+    margin-top: -2px;
+    font-size: 20px;
+}
+.content h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 50px;
+    padding-left: 20px;
+    margin-top: 4%;
+    letter-spacing: 2px;
+   color: #ff7200;
+}
+ .button{
+    width: 160px;
+    height: 40px;
+    border: none;
+    margin-bottom: 10px;
+    margin-left: 133px;
+    font-size: 18px;
+    border-radius: 10px;
+    margin-top: 0px;
+
+}
+.button a{
+    text-decoration: none;
+     color: blue;
+}
+.button a:hover{
+    background-color: orangered;
+}
+.button:hover{
+    background-color: blueviolet;
+}
+.footer{
+    margin-top: 20px;
+}

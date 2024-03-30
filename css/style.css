@@ -1,0 +1,369 @@
+body{
+    
+    color-scheme: #fff;
+    font-size: 25px;
+    overflow-x: hidden;
+}
+.img-fluid{
+    width:100%;
+}
+.container{
+    width:1300px;
+}
+.header{
+    float: left;
+    width: 100%;
+    background-color: antiquewhite;
+   border-radius: 2px;
+    padding-bottom: 15px;
+    padding-top: 22px;
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,.12), inset 0 -1px 0 0 #dadce0;
+
+
+}
+.logo{
+    width: 70%;
+    float: left;
+}
+  
+.logo img{
+    width: 596px;
+    height: 97px;
+    padding-left: 12px;
+  
+}
+.menu{
+    float: left;
+    width: 30%;
+    text-align: right;
+    margin-top: -13px;
+    font-size: 17px;
+}    
+   
+.menu ul{
+   margin-right: -32px; 
+}
+.menu li{
+    display: inline-block;
+    text-decoration: none;  
+    font-size: 23px;
+    list-style: none;
+}
+.menu img{
+    width: 22px;
+    float: left;
+    padding-top: 1px;
+    margin-right: 8px;
+}
+
+.element {
+    width:100%;
+    float:left;
+    background-image: url(../images/crop-rotation1.jpg);
+    background-position: right bottom;
+    text-align: left;
+    background-repeat: no repeat;
+    color: #fff; 
+    padding: 70px 0px;  
+}
+.first{  
+    padding-left: 140px;
+    padding-right: 0px;
+    text-align: left;
+}
+.element1{
+    float: left;
+    width:100%;
+}
+.second{
+    text-align: center;
+}
+.second p{
+    text-align: justify;
+    padding-bottom: 10px;
+    margin-bottom: -27px;
+}
+.second h2{
+    padding-bottom:0px;
+
+}
+.mini{
+    padding-left:140px;
+    line-height: 34px;
+    letter-spacing: 0.6px;
+}
+.element3{
+    float:left;
+    width:100%;
+    padding: 50px 0px;
+    background-color: lavender;
+    margin-bottom: 90px;
+    margin-top: 0px;
+}
+.five p{
+    text-align: center;
+    font-size: 24px;
+    padding-left: 144px;
+}
+.five ul{
+    list-style-type: square;
+    font-size: 26px;
+}
+.six{
+    margin:auto;
+    max-width: 100%;
+    padding-left:260px;
+    
+}
+.boxes{
+    width: 15%;
+    float: left;
+    padding: 2px 5px;
+    border-radius: 6px;
+    box-shadow: 0 0 15px 1px rgba(0,0,0,0,0.15);
+    margin-left: 55px;
+    margin-bottom: 30px;
+}
+   
+.boxes p{
+    width: 100%;
+    float: left;
+    text-align: center;
+    padding-right: 5.4px;
+}
+
+.element5{
+    width:100%;
+    float:left;
+   padding-left:120px;
+   font-size: 25px;
+   background-color: lavender;
+   margin-top: 50px;
+}
+.element5 h4{
+    font-size: 27px;
+}
+.eight ul{
+    font-size: 26px;
+    line-height: 32px;
+}
+.element4{
+    width:100%;
+    float:left;
+    padding-top: 40px;
+}
+.seven p{
+    padding-left: 112px;
+    text-align: justify;
+}
+
+.element2{
+    background-color: blanchedalmond;
+    float:left;
+    width:100%;
+    margin-top: 50px;
+}
+.third{
+    width:65%;
+    float:left;
+}
+.third ul{
+    font-size: 25px;
+    line-height: 30px;
+    font-family: 100px;
+    padding-left: 89px;
+}
+.four{
+    width:35%;
+    float:left;
+    padding-top: 50px;
+}
+.images{
+    padding-left: 60px;
+    margin-top: 40px;
+    text-align: center;
+    margin-right: 55px;
+}
+.element7{
+    width: 100%;
+    float: left;
+    background-color: black;
+    color: #fff;
+    text-align: center;margin-top: 40px;
+}
+.nine{
+    line-height:32px;
+    letter-spacing: 0.6px;
+}
+.nine h3{
+    color: red;
+}
+.ten{
+    text-align: center;
+    color: #fff;
+}
+.btnstyle{
+    background-color: #fff;
+    padding: 10px 30px;
+    color: #fff;
+    border-radius: 5px;
+    font-weight: 600;
+    font-size: 18px;
+    margin-top: 20px;
+    line-height: 30px;
+    text-decoration: none;
+    border:1px solid #f5233e;
+    margin-bottom: 40px;
+}
+.footer{
+    background-color: gray;
+    padding: 10px 0px;
+    color: #fff;
+    font-size: 23px;
+    width: 100%;
+    float: left;
+    margin-bottom: 0px;
+    padding-bottom: 0px;
+}
+.last{
+    float: left;
+    width: 50%;
+}
+.last p{
+    text-align: left;
+    padding-left: 90px;
+    
+}
+.lasts{
+    width:50%;
+    float: left;
+}
+.lasts p{
+    text-align: right;
+}
+.demerits{
+    float: left;
+    width: 100%;
+    
+}
+.demerits ul{
+    font-size: 27px;
+}
+iframe{
+    padding-left: 450px;
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+.element4{
+    margin-bottom: 100px;
+}
+.you{
+
+    margin-left: -74px;
+}
+.plant1 img{
+   
+    width: 942px;
+    height: 316px;
+    margin-left: 166px;
+}
+.link1{
+    text-align: center;
+    text-decoration: none;
+}
+.flow img{
+    width: 739px;
+    height: 560px;
+    margin-left: 400px;
+    margin-top: -84px;
+    margin-bottom: -7px;
+}
+.plant2 img{
+    width: 777px;
+    height: 334px;
+    margin-left: 187px;
+}
+.plant3 img{
+    width: 923px;
+    height: 239px;
+    margin-left: 156px;
+}
+.plant4 img{
+    width: 536px;
+    height: 475px;
+    margin-left: 287px;
+}
+.end{
+    width: 100%;
+    float: left;
+    margin-top: 40px;
+    margin-bottom: 30px;
+}
+.cons h2{
+    text-align: center;
+    font-size: 42px;
+    color: blueviolet;
+}
+.cons img{
+    width: 1314px;
+    height: 733px;
+   margin-left: 137px;
+}
+.none1 h1{
+    text-align: center;
+    font-size: 32px;
+    color: rgb(0,0,0);
+}
+.none1 ul{
+    font-size: 26px;
+    text-align: center;
+    text-align: justify;
+}
+.boxes:first-child{
+    background-color: slategray;
+}
+.boxes:nth-child(2){
+    background-color: bisque;
+}
+.boxes:nth-child(3){
+    background-color:lightblue;
+}
+.boxes:nth-child(4){
+    background-color: dodgerblue;
+    color:#fff;
+}
+.boxes:last-child{
+   background-color: palevioletred;
+}
+.element6{
+    color: #fff;
+}
+.images{
+    margin-left: 20px;
+    margin-bottom: 30px;
+    padding-bottom: 27px;
+}
+.you1{
+    margin-bottom: -91px;
+}
+.cons h2{
+  
+    margin-left: 219px;
+}
+.extra{
+    color: red;
+}
+.block3 {
+    margin: auto;
+}
+.element6 .boxes:hover{
+   background-color:aqua;
+}
+.one{
+    float: left;
+    width: 100%;
+}
+.two{
+    float: left;
+    width: 100%;
+}
